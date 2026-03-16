@@ -33,7 +33,7 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
 
 * 🏦 (2025) **Banco de Chile- Práctica I: Célula Analítica Avanzada | Gerencia Marketing, Tecnología y Dígital**: Desarrollé una librería en Python para automatizar la evaluación de modelos de clasificación y regresión, incluyendo generación de reportes y análisis de datos, con documentación de arquitectura y código orientada a la escalabilidad, mantenibilidad y reutilización 
 
-### 🛠️ Competencias Técnicas 
+## 🛠️ Competencias Técnicas 
 
 Lenguajes de Programación
 
