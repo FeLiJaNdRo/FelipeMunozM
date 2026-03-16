@@ -27,7 +27,7 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
 
 * Mis hobbies son la repostería 🍰, y los videojuegos 🎮.
   
-* Me gusta ir al gimnasio 🏋️, prácticar natación 🏊, la fotografía 📸 (soy principiante en esto), y me encantaría viajar por el mundo y conocer cada continente 🌎✈️. 
+* Me gusta ir al gimnasio 🏋️, prácticar natación 🏊, la fotografía 📸, y me encantaría viajar por el mundo y conocer cada continente 🌎✈️. 
 
 ### 🧑‍💻 Experiencias en Ciencias de Datos
 
