@@ -1,7 +1,7 @@
 # Hola Mundo! 👋🌎
 
 <div align="center">
-  <img src="./bannder.JPG" alt="Descripción" width="900"/>
+  <img src="./bannder.JPG" alt="Descripción" width="600"/>
 
   <br>
 
