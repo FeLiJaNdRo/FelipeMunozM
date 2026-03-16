@@ -21,7 +21,9 @@ Soy Felipe Muñoz Marín, estudiante de ingeniería civil industrial de la Unive
 
 * ⚡ Me caracterizo por un enfoque analítico y metódico, complementado con creatividad para la resolución de problemas, y poder trabajar de forma óptima bajo presión. Esto me ha permitido ser estudiante y ser ayudante de cursos como Cálculo Avanzado, Economía, Física I, Organización Industrial e Ingeniería de la Información, y ser reconocido como Estudiante Destacado en 2022 y 2024 por mi sobresaliente desempeño académico.
 
-* Mis hobbies son la 🧁 repostería, y los 🎮 videojuegos. También me gusta ir al 🏋️ gimnasio y entrenar 🏊 natación. 
+* Mis hobbies son la repostería 🍰, y los videojuegos 🎮.
+  
+* Me gusta ir al gimnasio 🏋️, prácticar natación 🏊, la fotografía 📸 (soy principiante en esto), y me encantaría viajar por el mundo y conocer cada continente 🌎✈️. 
 
 ### 👔 Experiencias Laborales
 
