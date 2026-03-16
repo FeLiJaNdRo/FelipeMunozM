@@ -29,7 +29,7 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
   
 * Me gusta ir al gimnasio 🏋️, prácticar natación 🏊, la fotografía 📸 (soy principiante en esto), y me encantaría viajar por el mundo y conocer cada continente 🌎✈️. 
 
-### 👔 Experiencias en Ciencias de Datos
+### 🧑‍💻 Experiencias en Ciencias de Datos
 
 * 🏦 (2025) **Banco de Chile- Práctica I: Célula Analítica Avanzada | Gerencia Marketing, Tecnología y Dígital**: Desarrollé una librería en Python para automatizar la evaluación de modelos de clasificación y regresión, incluyendo generación de reportes y análisis de datos, con documentación de arquitectura y código orientada a la escalabilidad, mantenibilidad y reutilización 
 
