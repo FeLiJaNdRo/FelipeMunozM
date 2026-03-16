@@ -11,8 +11,8 @@
 Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Universidad de Chile, actualmente cursando el Magister en Ciencias de Datos de la Universidad de Chile. Vivo en Santiago de Chile y soy un apasionado por el mundo de la computación, los datos y las matemáticas. 
 
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=%23EA4335&link=www.linkedin.com%2Fin%2Ffelipe-mu%C3%B1oz-mar%C3%ADn-916890296" width="80">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white&logoSize=auto&link=felipe.munoz.m%40ug.uchile.cl" width="90">
+  <img alt="Static Badge" url="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=%23EA4335&link=www.linkedin.com%2Fin%2Ffelipe-mu%C3%B1oz-mar%C3%ADn-916890296" width="80">
+  <img alt="Static Badge" url="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white&logoSize=auto&link=felipe.munoz.m%40ug.uchile.cl" width="90">
 </div>
 
 ## Sobre mi 😄
