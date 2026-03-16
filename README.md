@@ -8,7 +8,7 @@
   *Imágen de mi visita al Parque Nacional Torres del Paine 🇨🇱 - 2023*
 </div>
 
-Soy Felipe Muñoz Marín, estudiante de ingeniería civil industrial de la Universidad de Chile, actualmente cursando el Magister en Ciencias de Datos de la Universidad de Chile. 
+Soy Felipe Muñoz Marín, estudiante de ingeniería civil industrial de la Universidad de Chile, actualmente cursando el Magister en Ciencias de Datos de la Universidad de Chile. Vivo en Santiago de Chile y soy un apasionado por el mundo de la computación, los datos y las matemáticas. 
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=%23EA4335&link=www.linkedin.com%2Fin%2Ffelipe-mu%C3%B1oz-mar%C3%ADn-916890296">
