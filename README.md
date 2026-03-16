@@ -1,6 +1,6 @@
 # Hola Mundo! 👋🌎
 
-<div align="center"> <img src="./bannder.JPG" alt="Descripción" width="400"/>Imágen de mi visita al Parque Nacional Torres del Paine 🇨🇱 - 2023</div>
+<div align="center"> <img src="./bannder.JPG" alt="Descripción" width="600"/>__Imágen de mi visita al Parque Nacional Torres del Paine 🇨🇱 - 2023__</div>
 
 Soy Felipe Muñoz Marín, estudiante de ingeniería civil industrial de la Universidad de Chile, actualmente cursando el Magister en Ciencias de Datos de la Universidad de Chile. 
 
