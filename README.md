@@ -29,10 +29,9 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
   
 * Me gusta ir al gimnasio 🏋️, prácticar natación 🏊, la fotografía 📸 (soy principiante en esto), y me encantaría viajar por el mundo y conocer cada continente 🌎✈️. 
 
-### 👔 Experiencias Laborales
+### 👔 Experiencias en Ciencias de Datos
 
 * 🏦 (2025) **Banco de Chile- Práctica I: Célula Analítica Avanzada | Gerencia Marketing, Tecnología y Dígital**: Desarrollé una librería en Python para automatizar la evaluación de modelos de clasificación y regresión, incluyendo generación de reportes y análisis de datos, con documentación de arquitectura y código orientada a la escalabilidad, mantenibilidad y reutilización 
-* 🥛 (2020 - 2024) **Food & Feed Ingredients SpA | Ejecutivo Administrativo Junior**: Gestioné procesos de facturación, control de cuentas por pagar e inventario, manejo de libros contables, ejecución de remuneraciones y apoyo en funciones de Recursos Humanos.
 
 ### 🛠️ Competencias Técnicas 
 
