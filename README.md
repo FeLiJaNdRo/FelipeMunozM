@@ -11,8 +11,12 @@
 Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Universidad de Chile, actualmente cursando el Magister en Ciencias de Datos de la Universidad de Chile. Vivo en Santiago de Chile y soy un apasionado por el mundo de la computación, los datos y las matemáticas. 
 
 <div align="center">
-  <img alt="Static Badge" width="80" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=%23EA4335&link=www.linkedin.com%2Fin%2Ffelipe-mu%C3%B1oz-mar%C3%ADn-916890296" >
-  <img alt="Static Badge" width="90" src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white&logoSize=auto&link=felipe.munoz.m%40ug.uchile.cl">
+  <a href="https://www.linkedin.com/in/felipe-muñoz-marín-916890296">
+    <img alt="Static Badge" width="80" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=%23EA4335">
+  </a>
+  <a href="mailto:felipe.munoz.m@ug.uchile.cl">
+    <img alt="Static Badge" width="90" src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white&logoSize=auto">
+  </a>
 </div>
 
 ## Sobre mi 😄
@@ -27,9 +31,8 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
 
 ### 👔 Experiencias Laborales
 
-* 🏦 (2025) Banco de Chile - Práctica I: Célula Analítica Avanzada | Gerencia Marketing, Tecnología y Dígital: Desarrollo de librería en Python para automatizar la evaluación de modelos de clasificación y regresión, elaboración de reportes y análisis de data, con documentación de arquitectura y código enfocada en escalabilidad y reutilización. 
-* 🥛 (2020 - 2024) Food & Feed Ingredients SpA | Ejecutivo Administrativo Junior: Facturación, control de cuentas por pagar e inventario, manejo de libros contables,
-ejecución de remuneraciones y apoyo en Recursos Humanos.
+* 🏦 (2025) Banco de Chile - Práctica I: Célula Analítica Avanzada | Gerencia Marketing, Tecnología y Dígital: Desarrollé una librería en Python para automatizar la evaluación de modelos de clasificación y regresión, incluyendo generación de reportes y análisis de datos, con documentación de arquitectura y código orientada a la escalabilidad, mantenibilidad y reutilización 
+* 🥛 (2020 - 2024) Food & Feed Ingredients SpA | Ejecutivo Administrativo Junior: Gestioné procesos de facturación, control de cuentas por pagar e inventario, manejo de libros contables, ejecución de remuneraciones y apoyo en funciones de Recursos Humanos.
 
 ### 🛠️ Competencias Técnicas 
 
