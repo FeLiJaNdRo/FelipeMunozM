@@ -30,9 +30,11 @@ Lenguajes de Programación
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=blue&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/R-skyblue?style=flat&logo=r&logoColor=white&logoSize=auto">
 
 Frameworks de Ciencia de Datos y Machine Learning
+
 <img alt="Static Badge" src="https://img.shields.io/badge/numpy-darkblue?style=flat&logo=numpy&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/pandas-darkred?style=flat&logo=pandas&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/scikit%20learn-orange?style=flat&logo=scikit%20learn&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-midnightblue?style=flat&logo=PostgreSQL&logoColor=white&logoSize=auto">
 
 Otros
+
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft-Excel-green?style=flat&logo=googlesheets&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-darkgreen?style=flat&logo=overleaf&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-blue?style=flat&logoColor=white&logoSize=auto"> 
 
 
