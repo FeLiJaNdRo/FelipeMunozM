@@ -21,7 +21,7 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
 
 ## Sobre mi 😄
 
-* 📊 Mis principales intereses académicos se centran en el estudio de la ciencia de datos, particularmente en el área de machine learning. Asimismo, mantengo un marcado interés por otras disciplinas relacionadas, como la economía y las finanzas.
+* 📊 Mis principales intereses académicos se centran en el estudio de la ciencia de datos, particularmente en el área de machine learning aplicadas al Marketing y la Economía.
 
 * ⚡ Me caracterizo por un enfoque analítico y metódico, complementado con creatividad para la resolución de problemas, y poder trabajar de forma óptima bajo presión. Esto me ha permitido ser estudiante y ser ayudante de cursos como Cálculo Avanzado, Economía, Física I, Organización Industrial e Ingeniería de la Información, y ser reconocido como Estudiante Destacado en 2022 y 2024 por mi sobresaliente desempeño académico.
 
